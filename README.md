@@ -14,4 +14,5 @@ test.py take two inputs: the test directory
 and a model file name to load the model.
 
 The output of test.py is the test error of the data which is
-the number of misclassifications divided by size of the test set.
+the number of misclassifications divided by size of the test set. 
+I achieved test accuracy of 92.1% in this project
